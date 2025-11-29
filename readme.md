@@ -29,6 +29,5 @@ I am currently translating my engineering logic into modern code, focusing on lo
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mycodes21&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycodes21&layout=compact&theme=radical" alt="Top Langs" />
+  
 </p>
