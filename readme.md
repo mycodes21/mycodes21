@@ -36,8 +36,6 @@ I am a **Mechanical Engineer** transitioning into software development. My goal 
 ### 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/mycodes21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mycodes21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycodes21&layout=compact&theme=radical"/>
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mycodes21&show_icons=true&theme=radical" alt="mycodes21 github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycodes21&layout=compact&theme=radical" alt="top languages"/>
 </div>
