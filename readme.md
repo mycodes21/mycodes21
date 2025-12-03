@@ -1,33 +1,43 @@
-# Hi there, I'm mycodes21! 👋
+<div align="center">
+
+# Hi there, I'm <a href="https://github.com/mycodes21">mycodes21</a>! 👋
 
 ### 🔧 Mechanical Engineer & Software Developer
 
-I am a **Mechanical Engineer** passionate about bridging the gap between hardware and software. I build tools to automate engineering tasks and solve real-world problems.
+*Bridging the gap between hardware manufacturing and software automation.*
+
+</div>
 
 ---
 
-### 🚀 Featured Project: PyNCViewer
-> **Just Released!**
-I successfully built and published **PyNCViewer**, a Python-based tool designed to view and analyze NC (Numerical Control) codes for CNC machining.
-* **Core features:** Visualization of G-code paths, syntax highlighting, and code analysis.
-* **Tech stack:** Python.
+### 🚀 About Me
+
+I am a **Mechanical Engineer** transitioning into software development. My goal is to build tools that automate engineering tasks, optimize CNC workflows, and solve real-world workshop problems.
+
+- 🔭 **Currently working on:** [PyNCViewer](https://github.com/mycodes21/PyNCViewer) (G-Code Visualization)
+- 🌱 **Learning:** Advanced Algorithms & Modern Web Apps (PHP/JS)
+- 💡 **Interests:** CAD/CAM Automation, Reverse Engineering, Tool & Die Making
 
 ---
 
 ### 🛠️ Languages & Tools
-I am currently translating my engineering logic into modern code, focusing on low-level efficiency and high-level automation.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-CSWP-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  
-</p>
+
+<div align="center">
+<a href="https://github.com/mycodes21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mycodes21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycodes21&layout=compact&theme=radical"/>
+</a>
+</div>
