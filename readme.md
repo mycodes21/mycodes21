@@ -14,7 +14,7 @@
 
 I am a **Mechanical Engineer** transitioning into software development. My goal is to build tools that automate engineering tasks, optimize CNC workflows, and solve real-world workshop problems.
 
-- 🔭 **Currently working on:** [PyNCViewer]([https://github.com/mycodes21/PyNCViewer](https://github.com/mycodes21/PyNC_Viewer)) (G-Code Visualization)
+- 🔭 **Currently working on:** [PyNCViewer](https://github.com/mycodes21/PyNC_Viewer) (G-Code Visualization)
 - 🌱 **Learning:** Advanced Algorithms & Modern Web Apps (PHP/JS)
 - 💡 **Interests:** CAD/CAM Automation, Reverse Engineering, Tool & Die Making
 
